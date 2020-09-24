@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#form {
+	width:310px;
+	height:270px;
+	background-image:url(../Images/background.jpg);
+	padding: 40px;
+	border:groove;
+	border-radius:10px;
+}
+
+#gonder{
+	background-color:#108fb9;
+	color:#FFF;
+	border-radius:5px;
+	width:90px;
+	height:30px;
+}
+
+#telefon{
+	width:130px;
+}
+
+#kutu{
+	width:180px;
+}
+
+#tarih{
+	width:180px;
+}
+
+#yildiz{
+	width:40px;
+	color:#C00;
+}
+
+
